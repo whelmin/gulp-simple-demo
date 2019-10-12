@@ -1,0 +1,11 @@
+#one {
+  color: #000;
+}
+.demo {
+  display: flex;
+  transition: all .2s;
+}
+.one {
+  overflow: hidden;
+  font-size: 14px;
+}
